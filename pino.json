@@ -3,7 +3,7 @@
   "wake_word": "Pino",
   "author": "Antonio Longo",
   "website": "https://www.home-assistant.io",
-  "model": "peenoh.tflite.tflite",
+  "model": "peenoh.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
@@ -13,4 +13,5 @@
     "tensor_arena_size": 30000,
     "minimum_esphome_version": "2024.7.0"
   }
+
 }
