@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Pino",
   "author": "Antonio Longo",
-  "website": "https://github.com/hdjweb/Pino-Voice/blob/main/",
+  "website": "https://raw.githubusercontent.com/hdjweb/Pino-Voice/refs/heads/main/",
   "model": "peenoh.tflite",
   "trained_languages": ["en"],
   "version": 2,
@@ -15,6 +15,7 @@
   }
 
 }
+
 
 
 
